@@ -1,10 +1,10 @@
 # Opacity Zero Slides
 
-[Panter](http://www.panter.ch) is discussing on going full regarding transparency. This slide take got the ball rolling.
+[Panter](http://www.panter.ch) is discussing on going all-in regarding transparency. This slide deck got the ball rolling.
 
 ## Get started
 
-You can view the resulting presentation at [http://www.panter.ch/talks/opacity-zero].
+You can view the resulting presentation at http://www.panter.ch/talks/opacity-zero.
 
 If you'd like to adapt it for your own needs, here comes how:
 
